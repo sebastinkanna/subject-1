@@ -4,3 +4,5 @@ to push the repository.
 
 kannan - I have received the file in the repository
 
+>>>>>>>>>>>>>>>
+I have developed some other programme here so i wants to pull the file from the remote 
